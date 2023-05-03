@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+p{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+.header-container{
+    border: 1px solid red;
+    text-align: center;
+    position: absolute;
+    top: 300px;
+    display: block;
+    width: 100%;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#header-btn{
+    background-color: #c75736;
+    color: #FFFFFF;
+    text-decoration: none;
+    width: 250px;
+    height: 70px;
+    display: inline-block;
+    border-radius: 70px;
+    padding-top: 15px;
+}
+
+.testemonial-container{
+    background-color:#c75736;
+    height: 200px;
+    width: 100%;
+}
+
+.cards-container{
+    margin: 50px;
+}
+
+.price-container{
+    margin: 50px;
+}
